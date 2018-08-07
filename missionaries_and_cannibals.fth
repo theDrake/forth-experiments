@@ -1,4 +1,4 @@
-\ Missionaries and Cannibals
+\ Missionaries and Cannibals (work in progress)
 
 create visited 100 cells allot
 variable visitedcount
