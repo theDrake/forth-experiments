@@ -1,2 +1,2 @@
 # forth-experiments
-A repository for my experiments with the Forth programming language.
+A repository for some of my experiments with the [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) programming language.
